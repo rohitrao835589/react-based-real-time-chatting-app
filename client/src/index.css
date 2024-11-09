@@ -1,0 +1,15 @@
+
+.b-margin{
+    padding-bottom: 400px;
+}
+.topMargin{
+    margin-top: 50px;
+}
+.lowerChild{
+    height: 100px;
+}
+@media only screen and (max-width: 600px) {
+    .lowerChild{
+        height: 150px;
+    }
+  }
