@@ -80,11 +80,13 @@ You can try out the live demo of the app here:
 - **Room Joining**: Users can enter any existing chat room using the room's ID.
 - **Messaging**: Users can send text messages to the room, which are broadcasted to all members of the room.
 
-## Screenshots
+## Chat Room
+Here is the Chat Room interface:
+![Chat Room](./assets/Chat%20room.png)
 
-![Chat Room](./assets/chat-room.png)
-
-*(Add relevant screenshots of the app in use here)*
+## Landing Page
+Here is the Landing Page interface:
+![Landing Page](./assets/Landing%20Page.png)
 
 ## Contributing
 
